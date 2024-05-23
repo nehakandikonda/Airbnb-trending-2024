@@ -6,11 +6,15 @@ The 2024 Airbnb trends in India show a diverse and growing market with a wide ra
 To analyze and compare Airbnb listings in India for the years 2023 and 2024, focusing on key trends, pricing, guest capacity, and other relevant metrics. 
 
 # Tools Used
-Data Analysis Tools: Python with pandas for data processing and analysis.
-Visualization: Tools like Excel, matplotlib, or seaborn for creating visual representations of trends.
+# Data Analysis Tools:
+Python with pandas for data processing and analysis.
+
+# Visualization: 
+Tools like Excel, matplotlib, or seaborn for creating visual representations of trends.
 
 # Data Sources
 2023 Listings Dataset: Detailed information on Airbnb listings for 2023, including host details, pricing, ratings, and more.
+
 2024 Listings Dataset: Similar detailed information for 2024, allowing for direct comparison with the 2023 data.
 
 # Conclusion
